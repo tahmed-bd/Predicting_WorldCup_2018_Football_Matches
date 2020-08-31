@@ -1,0 +1,6 @@
+presentation_slide/*
+data_processing/*
+raw_data/*
+notebooks/*
+!notebooks/datalab_beta.py
+!notebooks/World-Cup-2018-V3.ipynb
